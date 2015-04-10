@@ -1,2 +1,2 @@
 # AnyMotion
-Gif yor progress.
+Gif your progress.
